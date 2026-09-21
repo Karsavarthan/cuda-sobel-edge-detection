@@ -1,0 +1,15 @@
+CUDA Sobel Edge Detection - Execution Log Template
+
+IMPORTANT:
+This file is a template/reference artifact. It is NOT a record of an actual
+CUDA program execution. Replace this file with the real terminal output from
+your CUDA program before submitting the Coursera assignment.
+
+Input: input_image.png
+Output: output_sobel.png
+Image size: 512 x 512
+
+CUDA GPU: [ENTER YOUR ACTUAL GPU]
+CUDA version: [ENTER YOUR ACTUAL CUDA VERSION]
+Execution time: [ENTER ACTUAL MEASURED TIME]
+Status: [ENTER ACTUAL PROGRAM RESULT]

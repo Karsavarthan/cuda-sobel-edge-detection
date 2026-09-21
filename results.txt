@@ -1,0 +1,18 @@
+CUDA Sobel Edge Detection - Results Template
+
+The included input_image.png is a sample image and output_sobel.png is a
+reference Sobel result generated from that sample image.
+
+IMPORTANT:
+The files in this ZIP are prepared as a template/reference package.
+They do not prove that a CUDA program was executed. Before submitting,
+replace the sample images and this text with artifacts produced by your
+own CUDA implementation.
+
+Actual results to record:
+- Input image: [YOUR ACTUAL INPUT]
+- Output image: [YOUR ACTUAL OUTPUT]
+- Image dimensions: [ACTUAL DIMENSIONS]
+- GPU used: [ACTUAL GPU]
+- Execution time: [ACTUAL MEASURED TIME]
+- Program status: [ACTUAL RESULT]
